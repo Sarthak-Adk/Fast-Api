@@ -1,0 +1,10 @@
+{
+    "P001":
+     {"name": "Ananya Sharma", "city": "Guwahati", "age": 28, "gender": "female", "height": 1.65, "weight": 90.0, "bmi": 33.06, "verdict": "Obese"},
+    "P002":
+  {"name": "Ravi Mehta", "city": "Mumbai", "age": 35, "gender": "male", "height": 1.75, "weight": 85, "bmi": 27.76, "verdict": "Overweight"}, 
+  "P003": 
+  {"name": "Sarthak Adhikari", "city": "chitwan", "age": 22, "gender": "male", "height": 1.75, "weight": 72, "bmi": 27.76, "verdict": "Overweight"}, 
+  "P004": 
+  {"name": "sarala", "city": "indrapuri", "age": 45, "gender": "female", "height": 1.73, "weight": 67.0, "bmi": 22.39, "verdict": "Normal"}
+}
